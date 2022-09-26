@@ -1,0 +1,16 @@
+{
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "description": "Replaces the new tab content with a custom start page.",
+  "incognito": "not_allowed",
+  "manifest_version": 3,
+  "name": "HTPC Hub",
+  "version": "1.0.0",
+  "icons": {
+    "16": "/images/icon_16.png",
+    "32": "/images/icon_32.png",
+    "48": "/images/icon_48.png",
+    "128": "/images/icon_128.png"
+  }
+}
