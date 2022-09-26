@@ -1,4 +1,4 @@
-# Start page
+# HTPC Hub
 
 ## Chrome extension
 
