@@ -1,4 +1,4 @@
-# HTPC
+# HTPC Extension
 
 A [Chrome web browser extension](https://developer.chrome.com/docs/extensions/) that can be used as an HTPC user interface
 
