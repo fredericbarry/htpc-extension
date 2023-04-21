@@ -1,9 +1,7 @@
-# HTPC Hub
+# HTPC
 
-## Chrome extension
+A [Chrome web browser extension](https://developer.chrome.com/docs/extensions/) that can be used as an HTPC user interface
 
-[Extensions](https://developer.chrome.com/docs/extensions/) are built on web technologies such as HTML, CSS, and JavaScript
-
-They run in a separate, sandboxed execution environment and interact with the Chrome browser
+## Installation
 
 To enable, go to `chrome://extensions`, and click the `Developer mode` checkbox on the top right. Click the `Load unpacked` button then navigate to your folder and click select
