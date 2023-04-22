@@ -4,4 +4,7 @@ A [Chrome web browser extension](https://developer.chrome.com/docs/extensions/) 
 
 ## Installation
 
-To enable, go to `chrome://extensions`, and click the `Developer mode` checkbox on the top right. Click the `Load unpacked` button then navigate to your folder and click select
+1. Clone the repository or download the Zip file and extract it to your computer
+2. From a Chrome web browser, navigate to `chrome://extensions` using the address bar
+3. Enable the `Developer mode` toggle switch on the top right of the screen
+4. Click the `Load unpacked` button, navigate to the cloned repository folder then click `Select`
