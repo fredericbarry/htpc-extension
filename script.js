@@ -1,6 +1,6 @@
 import apps from "/apps.js";
 
-const populateGrid = () => {
+function populateGrid() {
   const cards = document.querySelector(".cards");
   cards.focus();
 
