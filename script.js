@@ -1,10 +1,10 @@
-import apps from "/apps.js";
+import channels from "./data/channels.js";
 
 function populateGrid() {
   const cards = document.querySelector(".cards");
   cards.focus();
 
-  apps.forEach((app) => {
+  channels.forEach((app) => {
     const { icon, link, name } = app;
 
     if (!icon || !link || !name) {
@@ -19,7 +19,7 @@ function populateGrid() {
     imgTag.alt = name;
     imgTag.classList.add("icon");
     imgTag.height = 128;
-    imgTag.src = `/images/${icon}`;
+    imgTag.src = `/images/channels/${icon}`;
     imgTag.width = 128;
     aTag.appendChild(imgTag);
 
