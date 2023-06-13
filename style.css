@@ -17,7 +17,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin: 2rem;
+  width: 50rem;
 }
 
 .card {
