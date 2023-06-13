@@ -1,8 +1,13 @@
-const apps = [
+const channels = [
   {
     icon: "icon_netflix_128.jpg",
     link: "https://www.netflix.com/browse",
     name: "Netflix",
+  },
+  {
+    icon: "icon_youtube_128.jpg",
+    link: "https://www.youtube.com/",
+    name: "YouTube",
   },
   {
     icon: "icon_toutv_128.jpg",
@@ -10,9 +15,9 @@ const apps = [
     name: "TOU.TV",
   },
   {
-    icon: "icon_youtube_128.jpg",
-    link: "https://www.youtube.com/",
-    name: "YouTube",
+    icon: "icon_crave_128.jpg",
+    link: "https://www.crave.ca/en",
+    name: "Crave",
   },
   {
     icon: "icon_disney_128.jpg",
@@ -31,4 +36,4 @@ const apps = [
   },
 ];
 
-export default apps;
+export default channels;
