@@ -1,0 +1,46 @@
+{
+    "channels": [
+        {
+            "id": "netflix",
+            "icon": "icon_netflix_128.jpg",
+            "url": "https://www.netflix.com/browse",
+            "name": "Netflix"
+        },
+        {
+            "id": "youtube",
+            "icon": "icon_youtube_128.jpg",
+            "url": "https://www.youtube.com/",
+            "name": "YouTube"
+        },
+        {
+            "id": "toutv",
+            "icon": "icon_toutv_128.jpg",
+            "url": "https://ici.tou.tv/rattrapage",
+            "name": "TOU.TV"
+        },
+        {
+            "id": "crave",
+            "icon": "icon_crave_128.jpg",
+            "url": "https://www.crave.ca/en",
+            "name": "Crave"
+        },
+        {
+            "id": "disney",
+            "icon": "icon_disney_128.jpg",
+            "url": "https://www.disneyplus.com/home",
+            "name": "Disney+"
+        },
+        {
+            "id": "noovo",
+            "icon": "icon_noovo_128.jpg",
+            "url": "https://www.noovo.ca/emissions",
+            "name": "Noovo"
+        },
+        {
+            "id": "weather",
+            "icon": "icon_weather_128.jpg",
+            "url": "https://meteo.gc.ca/city/pages/qc-28_metric_f.html",
+            "name": "Météo"
+        }
+    ]
+}
