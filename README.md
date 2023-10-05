@@ -13,4 +13,4 @@ A [Chrome web browser extension](https://developer.chrome.com/docs/extensions/) 
 
 1. Create a 128 square pixels image intented to look good inside a circle filter
 2. Export the image as `icon_[CHANNEL_NAME]_128.jpg` under the `./images/channels` path
-3. Add the new channel to the channels array under the `./data/channels.js` path
+3. Add the new channel to the channels array under the `./data/channels.json` path
