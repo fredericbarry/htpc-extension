@@ -1,0 +1,10 @@
+{
+    "name": "htpc-extension",
+    "version": "0.0.1",
+    "main": "index.html",
+    "repository": "git@github.com:fredericbarry/htpc-extension.git",
+    "author": "Frederic Barry <68257842+fredericbarry@users.noreply.github.com>",
+    "license": "MIT",
+    "private": true,
+    "type": "module"
+}
