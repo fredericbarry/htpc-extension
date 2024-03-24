@@ -4,10 +4,10 @@ A [Chrome web browser extension](https://developer.chrome.com/docs/extensions/) 
 
 ## Installation
 
-- Clone the repository or [download the ZIP file](https://github.com/fredericbarry/htpc-extension/archive/refs/heads/master.zip) and extract it to your computer
-- From a Chrome web browser, navigate to `chrome://extensions` using the address bar
-- Enable the `Developer mode` toggle switch on the top right of the screen
-- Click the `Load unpacked` button, navigate to the cloned repository folder then click `Select`
+1. Clone the repository or download the [ZIP](https://github.com/fredericbarry/htpc-extension/archive/refs/heads/master.zip) file and extract it to your computer
+2. From a Chrome web browser, navigate to `chrome://extensions` using the address bar
+3. Enable the `Developer mode` toggle switch on the top right of the screen
+4. Click the `Load unpacked` button, navigate to the cloned repository folder then click `Select`
 
 ## Adding a channel
 
