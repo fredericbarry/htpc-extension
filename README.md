@@ -4,13 +4,13 @@ A [Chrome web browser extension](https://developer.chrome.com/docs/extensions/) 
 
 ## Installation
 
-1. Clone the repository or download the Zip file and extract it to your computer
-2. From a Chrome web browser, navigate to `chrome://extensions` using the address bar
-3. Enable the `Developer mode` toggle switch on the top right of the screen
-4. Click the `Load unpacked` button, navigate to the cloned repository folder then click `Select`
+- Clone the repository or [download the ZIP file](https://github.com/fredericbarry/htpc-extension/archive/refs/heads/master.zip) and extract it to your computer
+- From a Chrome web browser, navigate to `chrome://extensions` using the address bar
+- Enable the `Developer mode` toggle switch on the top right of the screen
+- Click the `Load unpacked` button, navigate to the cloned repository folder then click `Select`
 
 ## Adding a channel
 
-1. Create a 128 square pixels image intented to look good inside a circle filter
-2. Export the image as `icon_[CHANNEL_NAME]_128.jpg` under the `./images/channels` path
-3. Add the new channel to the channels array under the `./data/channels.json` path
+- Create a 128 square pixels image intented to look good inside a circle filter
+- Export the image as `icon_[CHANNEL_NAME]_128.jpg` under the `./images/channels` path
+- Add the new channel to the channels array under the `./data/channels.json` path
